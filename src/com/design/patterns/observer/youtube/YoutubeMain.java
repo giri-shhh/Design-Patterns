@@ -1,4 +1,4 @@
-package com.design.patterns.observable.youtube;
+package com.design.patterns.observer.youtube;
 
 public class YoutubeMain {
 

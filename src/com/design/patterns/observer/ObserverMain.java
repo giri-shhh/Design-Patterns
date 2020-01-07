@@ -1,6 +1,6 @@
-package com.design.patterns.observable;
+package com.design.patterns.observer;
 
-public class ObservableMain {
+public class ObserverMain {
 
     public static void main(String[] args) {
 
